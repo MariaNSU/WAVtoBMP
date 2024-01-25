@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -mmacosx-version-min=12.6 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/main.dir/src/BMPdata.cpp.o CMakeFiles/main.dir/src/furieTransform.cpp.o CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/wavFile.cpp.o -o main   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lfftw3 

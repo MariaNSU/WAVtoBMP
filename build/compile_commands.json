@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/mariapetrova/projectWinter2024/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -g -mmacosx-version-min=12.6 -std=gnu++17 -o CMakeFiles/main.dir/src/BMPdata.cpp.o -c /Users/mariapetrova/projectWinter2024/src/BMPdata.cpp",
+  "file": "/Users/mariapetrova/projectWinter2024/src/BMPdata.cpp"
+},
+{
+  "directory": "/Users/mariapetrova/projectWinter2024/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -g -mmacosx-version-min=12.6 -std=gnu++17 -o CMakeFiles/main.dir/src/furieTransform.cpp.o -c /Users/mariapetrova/projectWinter2024/src/furieTransform.cpp",
+  "file": "/Users/mariapetrova/projectWinter2024/src/furieTransform.cpp"
+},
+{
+  "directory": "/Users/mariapetrova/projectWinter2024/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -g -mmacosx-version-min=12.6 -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/mariapetrova/projectWinter2024/src/main.cpp",
+  "file": "/Users/mariapetrova/projectWinter2024/src/main.cpp"
+},
+{
+  "directory": "/Users/mariapetrova/projectWinter2024/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -g -mmacosx-version-min=12.6 -std=gnu++17 -o CMakeFiles/main.dir/src/wavFile.cpp.o -c /Users/mariapetrova/projectWinter2024/src/wavFile.cpp",
+  "file": "/Users/mariapetrova/projectWinter2024/src/wavFile.cpp"
+}
+]
